@@ -173,8 +173,7 @@ print("=======================================")
 
 """
 Day 1 Status
-
-You have completed:
+I have completed:
 
 ✅ Python Basics
 ✅ Variables
