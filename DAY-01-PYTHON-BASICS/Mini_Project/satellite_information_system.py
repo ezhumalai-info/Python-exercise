@@ -1,0 +1,13 @@
+satellite_name = input("Enter Satellite Name: ")
+country = input("Enter Country: ")
+launch_year = int(input("Enter Launch Year: "))
+altitude = float(input("Enter Altitude (km): "))
+speed = float(input("Enter Speed (km/s): "))
+
+print("\n========== Satellite Information ==========")
+print("Satellite Name :", satellite_name)
+print("Country        :", country)
+print("Launch Year    :", launch_year)
+print("Altitude       :", altitude, "km")
+print("Speed          :", speed, "km/s")
+print("===========================================")
